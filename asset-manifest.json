@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactTask/static/css/main.fd027ca7.css",
+    "main.js": "/ReactTask/static/js/main.4c68ea52.js",
+    "static/js/453.31031852.chunk.js": "/ReactTask/static/js/453.31031852.chunk.js",
+    "static/media/speedMeter.png": "/ReactTask/static/media/speedMeter.c4c9442920f62158b47f.png",
+    "static/media/pdf.png": "/ReactTask/static/media/pdf.09fd2df4f40d0d0232a1.png",
+    "index.html": "/ReactTask/index.html",
+    "main.fd027ca7.css.map": "/ReactTask/static/css/main.fd027ca7.css.map",
+    "main.4c68ea52.js.map": "/ReactTask/static/js/main.4c68ea52.js.map",
+    "453.31031852.chunk.js.map": "/ReactTask/static/js/453.31031852.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd027ca7.css",
+    "static/js/main.4c68ea52.js"
+  ]
+}
