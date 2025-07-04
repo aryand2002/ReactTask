@@ -154,7 +154,7 @@ function PieCenterLabel({ children }) {
 
 export default function CombinedCharts() {
   return (
-    <div className="min-h-screen bg-gray-100 py-8 px-4">
+    <div className="min-h-screen bg-gray-100 pt-8 pb-14 px-4">
       <h1 className="text-3xl font-bold text-center mb-8 text-gray-800">
         Overview
       </h1>
